@@ -10,17 +10,19 @@ The question I wanted to answer was: what other models could be applied to impro
 During this analysis, a Sklearn Pipeline was employed to decipher which model would result in the highest accuracy. Then, Grid Search and Cross Validation were applied to generate the best parameter values and to evaluate performance.  MLP ended up with the highest F1 and Accuracy Scores. MLP also generated the greatest percentages of ‘Area under the Curve’.
 Multi-layer perceptrons (MLP) is a ‘feed-forward’ neural network. It uses linear regressions to compute weighted sums from input features influencing a main target. Similarly, MLP will weigh the input features against ‘hidden’ targets, or intermediary nodes/units. Next, weighted sums are calculated between these hidden units and the main target. And, more ‘layers’ of hidden units can be added to refine the decision boundary.  Finally, the weighted results, or coefficients, are subjected to a non-linear model (often rectifying nonlinearity, or ‘relu’, and tangens hyperbolicus, or ‘tanh’) that derives the segments of the classification boundary. ‘Relu’ discounts values below zero and ‘tanh’ pulls coefficients towards either ‘-1’, for low values, and ‘+1’, for the higher values. MLP is capable of producing accurate decision boundaries for classification and its hidden layers can accommodate large and small datasets by adjusting the number of hidden units and layers (Muller & Guido, 2016).  
 
-<img src="C:/Users/Brain/Downloads/Picture4.png" class="img-responsive" alt=""> </div>
+<img src="C://Users//Brain//Downloads//Picture4.png" class="img-responsive" alt=""> </div>
 https://ibb.co/KFQYc5C
 Multilayer Perceptron (Bento, 2021 Sept 21st, towardsdatascience.com)
 
 MLP achieved the highest accuracy (83%).
 
 AUC Accuracy (MLP):
-<img src="C:/Users/Brain/Downloads/Picture5.png" class="img-responsive" alt=""> </div>
-<img src="C:/Users/Brain/Downloads/Picture6.png" class="img-responsive" alt=""> </div>
-<img src="C:/Users/Brain/Downloads/Picture6.png" class="img-responsive" alt=""> </div>
+<img src="C://Users/Brain/Downloads//Picture5.png" class="img-responsive" alt=""> </div>
+<img src="C://Users/Brain/Downloads//Picture6.png" class="img-responsive" alt=""> </div>
+<img src="C://Users/Brain/Downloads//Picture6.png" class="img-responsive" alt=""> </div>
 https://ibb.co/QnwwfZj
+https://ibb.co/HGtfvYr
+https://ibb.co/DfX4X5C
 
 
 References:
