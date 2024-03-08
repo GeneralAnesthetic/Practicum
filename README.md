@@ -30,3 +30,12 @@ Martin, Sophie - (2023, Feb 3rd). Interpretable machine learning for dementia: A
 OASIS Brains - Open Access Series of Imaging Studies. (n.d.). Retrieved March 1, 2024, from https://www.oasis-brains.org/
 
 What is Dementia? Symptoms, Causes & Treatment. Alz.org. (n.d.). Retrieved March 2, 2024, from https://www.alz.org/alzheimers-dementia/what-is-dementia
+
+Acknowledgement:
+  When publishing findings that benefit from OASIS data, please include the following grant numbers in the acknowledgements section and in the associated Pubmed Central submission: P50 AG05681, P01 AG03991, R01 AG021910, P20 MH071616, U24 RR0213
+You will acknowledge the use of OASIS data and data derived from OASIS data when publicly presenting any results or algorithms that benefited from their use. Papers, book chapters, books, posters, oral presentations, and all other printed and digital presentations of results derived from OASIS data should contain the following:
+
+  Acknowledgments: "Data were provided by OASIS-2: Longitudinal: https://doi.org/10.1162/jocn.2009.21407
+
+  OASIS-2: Longitudinal: Principal Investigators: D. Marcus, R, Buckner, J. Csernansky, J. Morris; P50 AG05681, P01 AG03991, P01 AG026276, R01 AG021910, P20 MH071616, U24 RR021382
+
