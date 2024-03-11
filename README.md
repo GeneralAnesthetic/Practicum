@@ -12,6 +12,7 @@ Multi-layer perceptrons (MLP) is a ‘feed-forward’ neural network. It uses li
 
 <img src="C://Users//Brain//Downloads//Picture4.png" class="img-responsive" alt=""> </div>
 <a href="Picture4.jpg">
+![alt text]([https://ibb.co/KFQYc5C])
 https://ibb.co/KFQYc5C
 Multilayer Perceptron (Bento, 2021 Sept 21st, towardsdatascience.com)
 
